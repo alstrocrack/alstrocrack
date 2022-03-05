@@ -30,6 +30,7 @@ I'm Frontend & Backend Engineer! It's my second year as an engineer. I'm living 
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-6a9e66?style=flat-square&logo=Node.js&logoColor=white">
     <img alt="gulp" src="https://img.shields.io/badge/-gulp-cd484b?style=flat-square&logo=gulp&logoColor=white">
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8cd0f1?style=flat-square&logo=Webpack&logoColor=white">
     <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-2ca0ed?style=flat-square&logo=Visual Studio Code&logoColor=white">
     <img alt="Hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=Hyper&logoColor=white">
     <img alt="Sourcetree" src="https://img.shields.io/badge/-Sourcetree-0d56c9?style=flat-square&logo=Sourcetree&logoColor=white">
