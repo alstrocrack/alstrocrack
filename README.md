@@ -2,7 +2,7 @@
 
 ## Career
 
-I'm Frontend & Backend Engineer! It's my second year as an engineer. I'm living in Nagoya.
+I'm Frontend & Backend Engineer! It's my second year as an engineer. I'm living in Tokyo.
 
 ## Things I code with
 ### Languages
