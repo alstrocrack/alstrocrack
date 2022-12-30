@@ -3,7 +3,7 @@
 ## Career
 - 🏢Majored in architecture in college
 - 🐡Previously worked as a Frontend engineer in Nagoya
-- 👍Currently a backend engineer using Ruby and Ruby on Rails in Tokyo
+- 👍Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
 
 ## Things I code with
 <p>
