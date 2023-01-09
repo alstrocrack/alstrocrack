@@ -2,8 +2,8 @@
 
 ## 👦Overview
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="170px"/>
 </p>
 <br/>
 
