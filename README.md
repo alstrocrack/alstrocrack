@@ -5,14 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="170px"/>
 </p>
-<br/>
 
 ## 📃Career
 - Majored in architecture in college
 - Previously worked as a Frontend engineer in Nagoya
 - Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
-<br/>
-<br/>
 
 ## 💻Things I code with
 <p>
@@ -47,7 +44,6 @@
     <img alt="Replit" src="https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white">
     <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=MacOS&logoColor=white">
 </p>
-<br/>
 
 ## 🔗My Links
 <p>
@@ -56,6 +52,9 @@
     </a>
     <a href="https://qiita.com/yuto_1220" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Qiita" src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white">
+    </a>
+        <a href="https://www.wantedly.com/id/yuto_urushima" target="_blank" rel="noopener noreferrer nofollow">
+        <img alt="Wantedly" src="https://img.shields.io/badge/-Wantedly-21BDDB?style=for-the-badge&logo=Wantedly&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/yuto-urushima-129b7220b/" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
