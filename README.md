@@ -2,8 +2,28 @@
 
 ## 👦Overview
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="170px"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="170px"/>
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="170px"/>
+  </picture>
 </p>
 
 ## 📃Career
