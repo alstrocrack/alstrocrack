@@ -1,11 +1,20 @@
 # Hi, I'm Yuto Urushima 👋
 
-## Career
-- 🏢Majored in architecture in college
-- 🐡Previously worked as a Frontend engineer in Nagoya
-- 👍Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
+## 👦Overview
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="200px"/>
+</p>
+<br/>
 
-## Things I code with
+## 📃Career
+- Majored in architecture in college
+- Previously worked as a Frontend engineer in Nagoya
+- Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
+<br/>
+<br/>
+
+## 💻Things I code with
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-e24e30?style=flat-square&logo=HTML5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-106eb2?style=flat-square&logo=CSS3&logoColor=white">
@@ -38,8 +47,9 @@
     <img alt="Replit" src="https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white">
     <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=MacOS&logoColor=white">
 </p>
+<br/>
 
-## My Links
+## 🔗My Links
 <p>
     <a href="https://twitter.com/developer_japan" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
