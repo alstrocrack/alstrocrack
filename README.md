@@ -29,7 +29,7 @@
 - Majored in architecture in college
 - Previously worked as a Frontend engineer in Nagoya
 - Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
-- Information Technology Passport Examination(IP) and Fundamental Information Technology Engineer Examination(FE) certifications
+- IT Passport Examination(IP) and Fundamental Information Technology Engineer Examination(FE) certifications
 
 ## 💻Things I code with
 <p>
