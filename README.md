@@ -1,5 +1,7 @@
 # Hi, I'm Yuto Urushima 👋
 
+![](https://komarev.com/ghpvc/?username=YutoUrushima&color=red&style=for-the-badge)
+
 ## 💙Overview
 <p>
   <picture>
