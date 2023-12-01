@@ -1,30 +1,30 @@
 # Hi, I'm Yuto Urushima 👋
 
-![](https://komarev.com/ghpvc/?username=YutoUrushima&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=alstrocrack&color=red&style=for-the-badge)
 
 ## 💙Overview
 <p>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=YutoUrushima&show_icons=true" alt="GitHub Stats" height="170px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true" alt="GitHub Stats" height="170px"/>
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoUrushima&layout=compact" alt="Most Used Languages" height="170px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact" alt="Most Used Languages" height="170px"/>
   </picture>
 </p>
 
@@ -70,7 +70,7 @@
 
 ## 🔗My Links
 <p>
-    <a href="https://twitter.com/developer_japan" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://twitter.com/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
     <a href="https://qiita.com/yuto_1220" target="_blank" rel="noopener noreferrer nofollow">
