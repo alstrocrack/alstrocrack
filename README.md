@@ -74,16 +74,19 @@
 ## 🔗My Links
 
 <p>
+    <a href="https://bento.me/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
+        <img alt="Bento" src="https://img.shields.io/badge/Bento-697BF9?style=for-the-badge&logo=bento&logoColor=white">
+    </a>
     <a href="https://twitter.com/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
-        <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
+        <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
     </a>
     <a href="https://qiita.com/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
-        <img alt="Qiita" src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white">
+        <img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white">
     </a>
         <a href="https://www.wantedly.com/id/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
-        <img alt="Wantedly" src="https://img.shields.io/badge/-Wantedly-21BDDB?style=for-the-badge&logo=Wantedly&logoColor=white">
+        <img alt="Wantedly" src="https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=Wantedly&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white">
     </a>
 </p>
