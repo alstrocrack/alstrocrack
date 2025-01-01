@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=alstrocrack&color=red&style=for-the-badge)
 
 ## 💙Overview
+
 <p>
   <picture>
     <source 
@@ -29,12 +30,14 @@
 </p>
 
 ## 📃Career
+
 - Majored in architecture in college
 - Previously worked as a Frontend engineer in Nagoya
 - Currently a Backend engineer using Ruby and Ruby on Rails in Tokyo
 - IT Passport Examination(IP) and Fundamental Information Technology Engineer Examination(FE) certifications
 
 ## 💻Things I code with
+
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-e24e30?style=flat-square&logo=HTML5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-106eb2?style=flat-square&logo=CSS3&logoColor=white">
@@ -69,17 +72,18 @@
 </p>
 
 ## 🔗My Links
+
 <p>
     <a href="https://twitter.com/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
-    <a href="https://qiita.com/yuto_1220" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://qiita.com/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Qiita" src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=Qiita&logoColor=white">
     </a>
-        <a href="https://www.wantedly.com/id/yuto_urushima" target="_blank" rel="noopener noreferrer nofollow">
+        <a href="https://www.wantedly.com/id/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="Wantedly" src="https://img.shields.io/badge/-Wantedly-21BDDB?style=for-the-badge&logo=Wantedly&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/yuto-urushima-129b7220b/" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://www.linkedin.com/in/alstrocrack" target="_blank" rel="noopener noreferrer nofollow">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
 </p>
