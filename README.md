@@ -2,38 +2,29 @@
 
 ## 💙 Overview
 
-<p>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=alstrocrack&show_icons=true"
-      alt="GitHub Stats"
-      height="170px"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstrocrack&layout=compact"
-      alt="Most Used Languages"
-      height="170px"
-    />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <b>📊 GitHub Stats</b><br/><br/>
+      <table>
+        <tr><td>🗂 Public Repos</td><td align="right"><b>54</b></td></tr>
+        <tr><td>⭐ Stars</td><td align="right"><b>1</b></td></tr>
+        <tr><td>🔥 Commits (2025)</td><td align="right"><b>16</b></td></tr>
+        <tr><td>🔀 Pull Requests</td><td align="right"><b>2</b></td></tr>
+      </table>
+    </td>
+    <td valign="top">
+      <b>💻 Top Languages</b><br/><br/>
+      <table>
+        <tr><td>Ruby</td><td><code>███████░░░░░░░░░░░░░</code></td><td align="right">37%</td></tr>
+        <tr><td>PHP</td><td><code>██████░░░░░░░░░░░░░░</code></td><td align="right">30%</td></tr>
+        <tr><td>HTML</td><td><code>███░░░░░░░░░░░░░░░░░</code></td><td align="right">16%</td></tr>
+        <tr><td>JavaScript</td><td><code>██░░░░░░░░░░░░░░░░░░</code></td><td align="right">10%</td></tr>
+        <tr><td>TypeScript</td><td><code>█░░░░░░░░░░░░░░░░░░░</code></td><td align="right">7%</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 LAPRAS
 
@@ -62,13 +53,13 @@
 
 <p>
   <a
-    href="https://bento.me/alstrocrack"
+    href="https://linktr.ee/alstrocrack"
     target="_blank"
     rel="noopener noreferrer nofollow"
   >
     <img
-      alt="Bento"
-      src="https://img.shields.io/badge/Bento-697BF9?style=for-the-badge&logo=bento&logoColor=white"
+      alt="Linktree"
+      src="https://img.shields.io/badge/Linktree-42E661?style=for-the-badge&logo=linktree&logoColor=white"
     />
   </a>
   <a
